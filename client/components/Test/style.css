@@ -1,0 +1,25 @@
+.thumbnail {
+    display: block;
+    width: 40%;
+    padding: 8px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 1.42857143;
+    background-color: #f1f1f1;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    -webkit-transition: border .2s ease-in-out;
+    -o-transition: border .2s ease-in-out;
+    transition: border .2s ease-in-out;
+}
+.answer {
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.next {
+    margin-top: 40px;
+    padding-left: 50px;
+    padding-right: 50px;
+}

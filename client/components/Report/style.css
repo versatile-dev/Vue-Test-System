@@ -1,0 +1,12 @@
+.title {
+	margin-bottom: 30px;
+}
+.btn-home {
+	margin-top: 30px;
+}
+.correct {
+	color: #0F0;
+}
+.incorrect {
+	color: #F00;
+}
